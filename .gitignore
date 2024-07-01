@@ -1,0 +1,41 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Configuración del entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Dependencias instaladas
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de migración de la base de datos
+migrations/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Dependencias de Node.js
+node_modules/
